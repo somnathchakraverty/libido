@@ -1,0 +1,57 @@
+.workout-button-margin{
+    margin-right: 5px;
+}
+.nopadding{
+    padding: 0px !important;
+}
+.video-block-margin{
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.video-main-div{
+    margin-top: 10px;
+}
+
+.skin-blue{
+    background-color: rgb(34, 46, 51);
+}
+.checkborder{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.loader-div{
+    z-index: 1004;
+    position: fixed;
+    padding-top: 300px;
+    height: 100vh;
+    background-color: black;
+    opacity: 0.7;
+}
+.list_margin{
+    margin-top: 15px;
+}
+.note-text{
+    font-size: 10px;
+}
+
+.hide-check{
+    display: none;
+}
+
+.admin-home{
+    
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 50px;
+    font-style: oblique;
+    box-sizing: content-box;
+
+}.admin-home-down{
+    
+    font-size: larger;
+    margin-bottom: 10px;
+    font-style: oblique;
+    box-sizing: content-box;
+
+}
